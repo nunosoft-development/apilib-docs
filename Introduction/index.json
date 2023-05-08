@@ -1,0 +1,10 @@
+{
+    "section": "Introduction",
+    "elements": [
+        {
+            "title": "Getting Started",
+            "url": "_index",
+            "file": "getting-started.md"
+        }
+    ]
+}
