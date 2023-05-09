@@ -4,6 +4,10 @@ pageTitle: API-Lib Docs - The Future of Web Backends.
 description: Backend development doesn't have to be a headache. API-Lib makes it effortless.
 ---
 
+{% callout type="note" title="Attention! API-Lib is not yet available to the public" %}
+API-Lib has not yet been released. However, we plan to launch our closed beta within the next four months. To stay up to date with our progress, you can sign up for our beta and newsletter on our [homepage](https://api-lib.com/). Additionally, you can follow us on our social media channels to receive regular updates.
+{% /callout %}
+
 Api-Lib is a backend development platform that simplifies the process of developing and managing APIs. The platform includes a framework, a web interface, and a visual editor to create APIs without coding. Api-Lib takes care of security, authentication, monitoring, management, and caching, among other aspects, making it useful for beginners and experienced developers. The platform also offers a module marketplace where users can create and configure modules without writing code. You can host the API on your own or with Api-Lib. In addition, Api-Lib offers load balancing across multiple server locations, making it easy to distribute the API and handle high traffic volumes.
 
 ---
