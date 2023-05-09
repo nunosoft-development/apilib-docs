@@ -8,21 +8,76 @@
           "href": "/"
         },
         {
-          "title": "Installation",
+          "title": "Features",
+          "href": "/introduction/features"
+        },
+        {
+          "title": "Tutorials",
+          "href": "/introduction/tutorials"
+        },
+        {
+          "title": "Examples",
+          "href": "/introduction/examples"
+        },
+        {
+          "title": "Testing",
           "href": "/introduction/testing"
         }
       ]
     },
     {
-      "title": "Examples",
+      "title": "Web Editor",
       "links": [
         {
-          "title": "Hello World",
-          "href": "/examples/hello-world"
+          "title": "Web Editor Guide",
+          "href": "/web-editor/guide"
         },
         {
-          "title": "Simple Database Request",
-          "href": "/examples/database"
+          "title": "Just Modules Guide",
+          "href": "/web-editor/modules"
+        },
+        {
+          "title": "Quick Start",
+          "href": "/web-editor/getting-started"
+        }
+      ]
+    },
+    {
+      "title": "Code Editor",
+      "links": [
+        {
+          "title": "Code Editor Guide",
+          "href": "/code-editor/guide"
+        },
+        {
+          "title": "Quick Start",
+          "href": "/code-editor/getting-started"
+        },
+        {
+          "title": "VSCode",
+          "href": "/code-editor/vscode"
+        }
+      ]
+    },
+    {
+      "title": "Visual Editor",
+      "links": [
+        {
+          "title": "Visual Editor Guide",
+          "href": "/visual-editor/guide"
+        }
+      ]
+    },
+    {
+      "title": "Learning",
+      "links": [
+        {
+          "title": "How does it work?",
+          "href": "/learning/explaination"
+        },
+        {
+          "title": "Security Model",
+          "href": "/learning/security"
         }
       ]
     }
