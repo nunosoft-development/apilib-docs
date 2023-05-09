@@ -12,6 +12,19 @@
           "href": "/introduction/testing"
         }
       ]
+    },
+    {
+      "title": "Examples",
+      "links": [
+        {
+          "title": "Hello World",
+          "href": "/examples/hello-world"
+        },
+        {
+          "title": "Simple Database Request",
+          "href": "/examples/database"
+        }
+      ]
     }
   ]
 }
