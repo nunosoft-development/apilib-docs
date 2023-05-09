@@ -80,6 +80,28 @@
           "href": "/learning/security"
         }
       ]
+    },
+    {
+      "title": "Platform",
+      "links": [
+        {
+          "title": "Pricing",
+          "href": "/platform/pricing"
+        }
+      ]
+    },
+    {
+      "title": "Runtime",
+      "links": [
+        {
+          "title": "Overview",
+          "href": "/runtime/overview"
+        },
+        {
+          "title": "LoggingService",
+          "href": "/runtime/logging"
+        }
+      ]
     }
   ]
 }
