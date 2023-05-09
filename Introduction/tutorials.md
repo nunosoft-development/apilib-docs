@@ -8,5 +8,5 @@ description: Here you will find comprehensive guides and tutorials on how to use
 
 | Name                                                 | Type        | Difficulty   |
 |------------------------------------------------------|-------------|--------------|
-| Contribute to the docs by writing your own Tutorials | 📝 Tutorial | Beginner     |
-| API-Lib Starter Video Tutorials                      | 🎥 Video    | Intermediate |
+| Contribute to the docs by writing your own Tutorials | Tutorial | Beginner     |
+| API-Lib Starter Video Tutorials                      | Video    | Intermediate |
