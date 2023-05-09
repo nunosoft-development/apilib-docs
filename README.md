@@ -7,4 +7,4 @@
 
 ## Deployment
 
-Our docs are deployed using API-Lib Frontend [Closed Beta]. Every commit pushed to production will automatically deploy to [docs.api-lib.com](https://docs.api-lib.com).
+Our docs are deployed using API-Lib. Every commit pushed to production will automatically deploy to [docs.api-lib.com](https://docs.api-lib.com).
