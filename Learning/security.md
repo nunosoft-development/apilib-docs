@@ -1,5 +1,5 @@
 ---
-title: API-Lib Security Model - Protecting Your APIs
+title: API-Lib Security Model
 description: Learn about API-Lib's comprehensive security model and its features designed to protect your APIs and sensitive data.
 ---
 
