@@ -28,27 +28,64 @@
     {
       "title": "Web Editor",
       "links": [
-
+        {
+          "title": "Web Editor Guide",
+          "href": "/web-editor/guide"
+        },
+        {
+          "title": "Just Modules Guide",
+          "href": "/web-editor/modules"
+        },
+        {
+          "title": "Quick Start",
+          "href": "/web-editor/getting-started"
+        }
       ]
     },
     {
       "title": "Code Editor",
       "links": [
-
+        {
+          "title": "Code Editor Guide",
+          "href": "/code-editor/guide"
+        },
+        {
+          "title": "Quick Start",
+          "href": "/code-editor/getting-started"
+        },
+        {
+          "title": "VSCode",
+          "href": "/code-editor/vscode"
+        }
       ]
     },
     {
       "title": "Visual Editor",
       "links": [
-
+        {
+          "title": "Visual Editor Guide",
+          "href": "/visual-editor/guide"
+        }
       ]
     },
     {
       "title": "Learning",
       "links": [
         {
+          "title": "How does it work?",
+          "href": "/learning/explaination"
+        },
+        {
           "title": "Security Model",
           "href": "/learning/security"
+        },
+        {
+          "title": "Best Practises",
+          "href": "/platform/best-practise"
+        },
+        {
+          "title": "Workflows",
+          "href": "/platform/workflows"
         }
       ]
     },
@@ -56,19 +93,54 @@
       "title": "Platform",
       "links": [
         {
+          "title": "Pricing",
+          "href": "/platform/pricing"
+        },
+        {
           "title": "Customer Support",
           "href": "/platform/support"
         },
         {
           "title": "Betas",
           "href": "/platform/beta"
+        },
+        {
+          "title": "Limits",
+          "href": "/platform/limits"
+        },
+        {
+          "title": "Referral Program",
+          "href": "/platform/referral"
+        },
+        {
+          "title": "HTML Template System",
+          "href": "/platform/html-templates"
+        },
+        {
+          "title": "Documentation Generator",
+          "href": "/platform/doc-generator"
         }
       ]
     },
     {
-      "title": "Runtime",
+      "title": "Module Marketplace",
       "links": [
-        
+        {
+          "title": "Overview",
+          "href": "/marketplace/overview"
+        },
+        {
+          "title": "Using Modules",
+          "href": "/marketplace/how-to"
+        },
+        {
+          "title": "Creating Modules",
+          "href": "/marketplace/create"
+        },
+        {
+          "title": "Earn money by uploading Modules",
+          "href": "/marketplace/earn"
+        }
       ]
     }
   ]
