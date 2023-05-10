@@ -11,4 +11,4 @@ These are the current alphas and betas relevant to API-Lib.
 
 | Product                       | {% badge text="Closed Alpha" type="red" /%}  | {% badge text="Closed Beta" /%} | {% badge text="Public Beta" type="purple" /%} | More Info |
 |-------------------------------|--------|--------|--------|-------------|
-| Visual Editor                 |✅             |             |             |[Docs](/visual-editor/guide)  |
+| Visual Editor                 |✅     |         |        |[Docs](/visual-editor/guide)  |
