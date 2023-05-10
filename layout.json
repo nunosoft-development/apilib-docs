@@ -28,53 +28,24 @@
     {
       "title": "Web Editor",
       "links": [
-        {
-          "title": "Web Editor Guide",
-          "href": "/web-editor/guide"
-        },
-        {
-          "title": "Just Modules Guide",
-          "href": "/web-editor/modules"
-        },
-        {
-          "title": "Quick Start",
-          "href": "/web-editor/getting-started"
-        }
+
       ]
     },
     {
       "title": "Code Editor",
       "links": [
-        {
-          "title": "Code Editor Guide",
-          "href": "/code-editor/guide"
-        },
-        {
-          "title": "Quick Start",
-          "href": "/code-editor/getting-started"
-        },
-        {
-          "title": "VSCode",
-          "href": "/code-editor/vscode"
-        }
+
       ]
     },
     {
       "title": "Visual Editor",
       "links": [
-        {
-          "title": "Visual Editor Guide",
-          "href": "/visual-editor/guide"
-        }
+
       ]
     },
     {
       "title": "Learning",
       "links": [
-        {
-          "title": "How does it work?",
-          "href": "/learning/explaination"
-        },
         {
           "title": "Security Model",
           "href": "/learning/security"
@@ -84,10 +55,6 @@
     {
       "title": "Platform",
       "links": [
-        {
-          "title": "Pricing",
-          "href": "/platform/pricing"
-        },
         {
           "title": "Customer Support",
           "href": "/platform/support"
@@ -101,14 +68,7 @@
     {
       "title": "Runtime",
       "links": [
-        {
-          "title": "Overview",
-          "href": "/runtime/overview"
-        },
-        {
-          "title": "LoggingService",
-          "href": "/runtime/logging"
-        }
+        
       ]
     }
   ]
