@@ -18,7 +18,7 @@ Learn how to set up API-Lib in just under 10 minutes. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Web Editor (Recommended)" icon="installation" href="/" description="Use our powerful Web Coding environment with useful snippets to create your API." /%}
+{% quick-link title="Web Editor {% badge text="Recommended" type="green" /%}" icon="installation" href="/" description="Use our powerful Web Coding environment with useful snippets to create your API." /%}
 
 {% quick-link title="Visual Editor" icon="presets" href="/" description="With our Visual Editor, you can create APIs without writing a single line of code." /%}
 
