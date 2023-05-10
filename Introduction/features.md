@@ -15,7 +15,7 @@ API-Lib offers a framework that helps developers to create APIs quickly and easi
 
 ## Visual Editor 
 
-{% badge text="Closed Beta" /%}
+{% badge text="Closed Alpha" type="red" /%}
 
 API-Lib's visual editor is a drag-and-drop interface that allows developers to create APIs without writing any code. It offers an intuitive interface that makes it easy to create and manage APIs. The visual editor offers features such as form builders, data visualization, and the ability to create custom templates. Developers can use the visual editor to create APIs for web applications, mobile apps, and IoT devices.
 
@@ -33,6 +33,8 @@ API-Lib's route analytics provides developers with insights into their API's usa
 
 ## Documentation Generator
 
+{% badge text="Closed Beta" /%}
+
 API-Lib's documentation generator creates documentation for APIs automatically. Developers can use the documentation generator to create API documentation in a variety of formats, such as HTML, PDF, and Markdown. The documentation generator uses the API's metadata to create comprehensive and easy-to-use documentation.
 
 ## API Statistics
@@ -44,6 +46,8 @@ API-Lib's API statistics provides developers with detailed information about the
 API-Lib's custom statistics allows developers to track custom metrics for their APIs. Developers can track metrics such as user sign-ups, orders placed, and more. Custom statistics helps developers to track the success of their APIs and identify areas for improvement.
 
 ## Gateway
+
+{% badge text="Closed Alpha" type="red" /%}
 
 API-Lib's gateway provides a single entry point for API requests. The gateway handles load balancing, caching, and other tasks that are required to manage API traffic. The gateway ensures that requests are routed to the appropriate server and that the API is available and responsive.
 
@@ -85,6 +89,8 @@ API-Lib's monitoring provides real-time insights into API performance. Developer
 
 ## Status Page
 
+{% badge text="Closed Beta" /%}
+
 API-Lib's status page provides users with real-time information about API availability and performance. Developers can configure the status page to display relevant metrics and provide updates during downtime or maintenance. The status page helps to improve user experience and reduce support requests.
 
 ## Webhooks
@@ -100,6 +106,8 @@ API-Lib's CORS (Cross-Origin Resource Sharing) allows developers to control whic
 API-Lib's tests allow developers to test API functionality automatically. Developers can create and run tests to ensure that the API is performing as expected. Tests help to ensure that the API is reliable and meets the needs of users.
 
 ## HTML Template System
+
+{% badge text="Public Beta" type="purple" /%}
 
 API-Lib's HTML template system allows developers to create custom HTML templates for API responses. Developers can use templates to create dynamic and customized responses based on user input. The HTML template system helps to improve user experience and create more engaging API responses.
 
