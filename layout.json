@@ -81,15 +81,27 @@
         },
         {
           "title": "Best Practises",
-          "href": "/platform/best-practise"
+          "href": "/learning/best-practise"
         },
         {
           "title": "Workflows",
-          "href": "/platform/workflows"
+          "href": "/learning/workflows"
         },
         {
           "title": "How our Network is structured",
-          "href": "/platform/network"
+          "href": "/learning/network"
+        },
+        {
+          "title": "Optimization",
+          "href": "/learning/optimization "
+        },
+        {
+          "title": "Versioning and Deprecation",
+          "href": "/learning/versioning "
+        },
+        {
+          "title": "Error Handling",
+          "href": "/learning/error-handling "
         }
       ]
     },
