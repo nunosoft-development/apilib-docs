@@ -1,5 +1,5 @@
 ---
-title: API-Lib's Features
+title: API-Lib Features
 description: An in-depth explanation of the features of API-Lib, a platform that simplifies backend development by handling security-related tasks, management, and more
 ---
 
