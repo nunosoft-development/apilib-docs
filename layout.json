@@ -94,6 +94,27 @@
       ]
     },
     {
+      "title": "Module Marketplace",
+      "links": [
+        {
+          "title": "Overview",
+          "href": "/marketplace/overview"
+        },
+        {
+          "title": "Using Modules",
+          "href": "/marketplace/how-to"
+        },
+        {
+          "title": "Creating Modules",
+          "href": "/marketplace/create"
+        },
+        {
+          "title": "Earn money by uploading Modules",
+          "href": "/marketplace/earn"
+        }
+      ]
+    },
+    {
       "title": "Platform",
       "links": [
         {
@@ -171,27 +192,6 @@
         {
           "title": "Documentation Generator",
           "href": "/platform/doc-generator"
-        }
-      ]
-    },
-    {
-      "title": "Module Marketplace",
-      "links": [
-        {
-          "title": "Overview",
-          "href": "/marketplace/overview"
-        },
-        {
-          "title": "Using Modules",
-          "href": "/marketplace/how-to"
-        },
-        {
-          "title": "Creating Modules",
-          "href": "/marketplace/create"
-        },
-        {
-          "title": "Earn money by uploading Modules",
-          "href": "/marketplace/earn"
         }
       ]
     }
