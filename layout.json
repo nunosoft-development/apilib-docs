@@ -86,6 +86,10 @@
         {
           "title": "Workflows",
           "href": "/platform/workflows"
+        },
+        {
+          "title": "How our Network is structured",
+          "href": "/platform/network"
         }
       ]
     },
@@ -111,6 +115,54 @@
         {
           "title": "Referral Program",
           "href": "/platform/referral"
+        },
+        {
+          "title": "Global Network (Server Locations)",
+          "href": "/platform/network"
+        },
+        {
+          "title": "Load Balancing",
+          "href": "/platform/load-balancing"
+        },
+        {
+          "title": "Collaboration System",
+          "href": "/platform/collaboration"
+        },
+        {
+          "title": "Status Page",
+          "href": "/platform/status-page"
+        },
+        {
+          "title": "Webhooks",
+          "href": "/platform/webhooks"
+        },
+        {
+          "title": "Tests",
+          "href": "/platform/tests"
+        },
+        {
+          "title": "Caching",
+          "href": "/platform/caching"
+        },
+        {
+          "title": "Versioning",
+          "href": "/platform/versioning"
+        },
+        {
+          "title": "Emergency Recovery",
+          "href": "/platform/emergency-recovery"
+        },
+        {
+          "title": "API Authentication",
+          "href": "/platform/api-authentication"
+        },
+        {
+          "title": "Rate Limiting",
+          "href": "/platform/rate-limiting"
+        },
+        {
+          "title": "Route Management",
+          "href": "/platform/route-management"
         },
         {
           "title": "HTML Template System",
