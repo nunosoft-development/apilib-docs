@@ -91,6 +91,10 @@
         {
           "title": "Customer Support",
           "href": "/platform/support"
+        },
+        {
+          "title": "Beta",
+          "href": "/platform/beta"
         }
       ]
     },
