@@ -13,7 +13,7 @@ API-Lib is a robust platform for developing and managing APIs, which makes the p
 
 API-Lib offers a framework that helps developers to create APIs quickly and easily. The framework offers a variety of features, such as routing, middleware, and input validation. It also offers support for different protocols, such as HTTP, WebSockets, and MQTT. The framework provides developers with a set of tools and utilities that can be used to build custom APIs.
 
-## Visual Editor
+## Visual Editor {% badge text="Beta" /%}
 
 API-Lib's visual editor is a drag-and-drop interface that allows developers to create APIs without writing any code. It offers an intuitive interface that makes it easy to create and manage APIs. The visual editor offers features such as form builders, data visualization, and the ability to create custom templates. Developers can use the visual editor to create APIs for web applications, mobile apps, and IoT devices.
 
