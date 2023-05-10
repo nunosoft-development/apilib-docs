@@ -15,7 +15,7 @@ API-Lib offers a framework that helps developers to create APIs quickly and easi
 
 ## Visual Editor 
 
-{% badge text="Beta" /%}
+{% badge text="Closed Beta" /%}
 
 API-Lib's visual editor is a drag-and-drop interface that allows developers to create APIs without writing any code. It offers an intuitive interface that makes it easy to create and manage APIs. The visual editor offers features such as form builders, data visualization, and the ability to create custom templates. Developers can use the visual editor to create APIs for web applications, mobile apps, and IoT devices.
 
