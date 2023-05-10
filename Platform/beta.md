@@ -9,6 +9,6 @@ These are the current alphas and betas relevant to API-Lib.
 * Closed alphas and betas require explicit access to be granted. You can apply for our Beta Program [here](https://api-lib.com).
 
 
-| Product                       | Closed Alpha  | Closed Beta | Public Beta | More Info |
+| Product                       | {% badge text="Closed Alpha" type="red" /%}  | {% badge text="Closed Beta" /%} | {% badge text="Public Beta" type="purple" /%} | More Info |
 |-------------------------------|---------------|-------------|-------------|-----------|
 | Visual Editor                 |✅             |             |             |[Docs](/visual-editor/guide)  |
