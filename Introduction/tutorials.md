@@ -14,4 +14,4 @@ Whether you're a seasoned developer or just starting out, our tutorials provide 
 | Name                                                 | Type        | Difficulty   |
 |------------------------------------------------------|-------------|--------------|
 | [Contribute to the docs by writing your own Tutorials](/tutorials/write-own-tutorials) | 📝 Tutorial | Beginner     |
-| [API-Lib Starter Video Tutorial Series](https://www.youtube.com/watch?v=zLAn7Qp69yA)                      | 🎥 Video    | Intermediate |
+| [API-Lib Starter Video Tutorial Series](https://www.youtube.com/)                      | 🎥 Video    | Intermediate |
