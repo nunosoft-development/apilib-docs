@@ -26,49 +26,6 @@
       ]
     },
     {
-      "title": "Web Editor",
-      "links": [
-        {
-          "title": "Web Editor Guide",
-          "href": "/web-editor/guide"
-        },
-        {
-          "title": "Just Modules Guide",
-          "href": "/web-editor/modules"
-        },
-        {
-          "title": "Quick Start",
-          "href": "/web-editor/getting-started"
-        }
-      ]
-    },
-    {
-      "title": "Code Editor",
-      "links": [
-        {
-          "title": "Code Editor Guide",
-          "href": "/code-editor/guide"
-        },
-        {
-          "title": "Quick Start",
-          "href": "/code-editor/getting-started"
-        },
-        {
-          "title": "VSCode",
-          "href": "/code-editor/vscode"
-        }
-      ]
-    },
-    {
-      "title": "Visual Editor",
-      "links": [
-        {
-          "title": "Visual Editor Guide",
-          "href": "/visual-editor/guide"
-        }
-      ]
-    },
-    {
       "title": "Learning",
       "links": [
         {
@@ -80,59 +37,14 @@
           "href": "/learning/security"
         },
         {
-          "title": "Best Practises",
-          "href": "/learning/best-practise"
-        },
-        {
-          "title": "Workflows",
-          "href": "/learning/workflows"
-        },
-        {
           "title": "How our Network is structured",
           "href": "/learning/network"
-        },
-        {
-          "title": "Optimization",
-          "href": "/learning/optimization "
-        },
-        {
-          "title": "Versioning and Deprecation",
-          "href": "/learning/versioning "
-        },
-        {
-          "title": "Error Handling",
-          "href": "/learning/error-handling "
-        }
-      ]
-    },
-    {
-      "title": "Module Marketplace",
-      "links": [
-        {
-          "title": "Overview",
-          "href": "/marketplace/overview"
-        },
-        {
-          "title": "Using Modules",
-          "href": "/marketplace/how-to"
-        },
-        {
-          "title": "Creating Modules",
-          "href": "/marketplace/create"
-        },
-        {
-          "title": "Earn money by uploading Modules",
-          "href": "/marketplace/earn"
         }
       ]
     },
     {
       "title": "Platform",
       "links": [
-        {
-          "title": "Pricing",
-          "href": "/platform/pricing"
-        },
         {
           "title": "Customer Support",
           "href": "/platform/support"
@@ -142,68 +54,8 @@
           "href": "/platform/beta"
         },
         {
-          "title": "Limits",
-          "href": "/platform/limits"
-        },
-        {
-          "title": "Referral Program",
-          "href": "/platform/referral"
-        },
-        {
           "title": "Global Network (Server Locations)",
           "href": "/platform/network"
-        },
-        {
-          "title": "Load Balancing",
-          "href": "/platform/load-balancing"
-        },
-        {
-          "title": "Collaboration System",
-          "href": "/platform/collaboration"
-        },
-        {
-          "title": "Status Page",
-          "href": "/platform/status-page"
-        },
-        {
-          "title": "Webhooks",
-          "href": "/platform/webhooks"
-        },
-        {
-          "title": "Tests",
-          "href": "/platform/tests"
-        },
-        {
-          "title": "Caching",
-          "href": "/platform/caching"
-        },
-        {
-          "title": "Versioning",
-          "href": "/platform/versioning"
-        },
-        {
-          "title": "Emergency Recovery",
-          "href": "/platform/emergency-recovery"
-        },
-        {
-          "title": "API Authentication",
-          "href": "/platform/api-authentication"
-        },
-        {
-          "title": "Rate Limiting",
-          "href": "/platform/rate-limiting"
-        },
-        {
-          "title": "Route Management",
-          "href": "/platform/route-management"
-        },
-        {
-          "title": "HTML Template System",
-          "href": "/platform/html-templates"
-        },
-        {
-          "title": "Documentation Generator",
-          "href": "/platform/doc-generator"
         }
       ]
     }
