@@ -1,5 +1,5 @@
 ---
-title: How Operators and API-Lib work
+title: The operation of Operators and API-Lib
 description: Learn about how Operators and API-Lib work in detail with our comprehensive overview. Get insights into request processing, performance optimizations, security features, and more. Start building secure and performant APIs with API-Lib.
 ---
 
