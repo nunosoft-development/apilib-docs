@@ -8,7 +8,7 @@ description: Backend development doesn't have to be a headache. API-Lib makes it
 API-Lib has not yet been released. However, we plan to launch our closed beta within the next months. To stay up to date with our progress, you can sign up for our beta and newsletter on our [homepage](https://api-lib.com/). Additionally, you can follow us on our social media channels to receive regular updates.
 {% /callout %}
 
-Api-Lib is a backend development platform that simplifies the process of developing and managing APIs. The platform includes a framework, a web interface, and a visual editor to create APIs without coding. Api-Lib takes care of security, authentication, monitoring, management, and caching, among other aspects, making it useful for beginners and experienced developers. The platform also offers a module marketplace where users can create and configure modules without writing code. You can host the API on your own or with Api-Lib. In addition, Api-Lib offers load balancing across multiple server locations, making it easy to distribute the API and handle high traffic volumes.
+API-Lib is a backend development platform that simplifies the process of developing and managing APIs. The platform includes a framework, a web interface, and a visual editor to create APIs without coding. API-Lib takes care of security, authentication, monitoring, management, and caching, among other aspects, making it useful for beginners and experienced developers. The platform also offers a module marketplace where users can create and configure modules without writing code. You can host the API on your own or with API-Lib. In addition, API-Lib offers load balancing across multiple server locations, making it easy to distribute the API and handle high traffic volumes.
 
 ---
 
@@ -27,5 +27,3 @@ Learn how to set up API-Lib in just under 10 minutes. {% .lead %}
 {% quick-link title="Code Editor (VSCode)" icon="theming" href="/" description="Do you want to stick to the traditional way and code your API in an IDE? API-Lib has got you covered!" /%}
 
 {% /quick-links %}
-
-
