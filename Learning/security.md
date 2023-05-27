@@ -46,6 +46,14 @@ API-Lib uses a variety of measures to ensure the physical security of the server
 
 Physical hardware separation is available as an option for our enterprise customers and for customers with high security requirements. [Contact our sales team](mailto:contact@nunosoft.net) for more information on physical hardware separation and other enterprise-level security options.
 
+## Code Obfuscation
+
+As an additional security measure, API-Lib employs code obfuscation techniques to make the underlying JavaScript code of our platform and APIs unreadable and difficult to understand. Code obfuscation transforms the code into an unrecognizable form while preserving its functionality.
+
+By obfuscating the code, API-Lib adds an extra layer of protection against reverse engineering and unauthorized code analysis. It makes it significantly harder for potential attackers to understand the inner workings of our system, reducing the risk of discovering vulnerabilities or exploiting the code.
+
+Code obfuscation helps safeguard the integrity and confidentiality of the codebase, making it more challenging for malicious actors to tamper with or manipulate the code. This security measure complements the other features of API-Lib's security model, enhancing the overall protection of your APIs and sensitive data.
+
 ## Protection Against Common Attacks
 
 API-Lib is designed to protect against common attacks such as Cross-site scripting (XSS) and cross-site request forgery (CSRF). We use a variety of measures to prevent these attacks.
