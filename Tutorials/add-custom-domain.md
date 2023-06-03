@@ -1,5 +1,5 @@
 ---
-title: API-Lib Documentation: Adding a Custom Domain to Your Project
+title: API-Lib Documentation - Adding a Custom Domain to Your Project
 description: API-Lib allows you to customize the domain for your project, giving it a personalized touch. This feature is available with the Essentials subscription plan. By following the steps outlined below, you can easily set up a custom domain for your project.
 ---
 
