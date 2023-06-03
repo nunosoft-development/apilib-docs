@@ -36,8 +36,6 @@ Before proceeding with the custom domain setup, please ensure that you have:
 1. Upon clicking the **Update** button, an input field will appear.
 2. Enter your desired custom domain in the provided input field.
 
-![Enter Custom Domain](https://example.com/images/enter_custom_domain.png)
-
 ## Step 4: Save and Error Handling
 
 1. After entering the custom domain, click on the **Save** button.
@@ -54,7 +52,8 @@ To properly set up the domain, you need to add a TXT DNS entry with your project
 5. In the **Name** or **Host** field, enter `@` or leave it blank to represent the root domain.
 6. In the **Value** or **Content** field, enter your project ID. You can find the project ID by following the guide provided [here](https://api-lib.com/guides/finding-project-id).
 
-![Add TXT Record](https://example.com/images/add_txt_record_cloudflare.png)
+![Add TXT Record](https://i.nunosoft.net/docs/cloudflare-txt.gif)
+[Open GIF](https://i.nunosoft.net/docs/cloudflare-txt.gif)
 
 ## Step 6: Verify TXT Record
 
