@@ -28,7 +28,7 @@ Before proceeding with the custom domain setup, please ensure that you have:
 2. Scroll down to the **Project Custom Domain** setting.
 3. Click on the **Update** button.
 
-![Update Custom Domain](https://example.com/images/update_custom_domain.png)
+![Update Custom Domain](https://i.nunosoft.net/docs/edit-domain.gif)
 
 ## Step 3: Enter Your Custom Domain
 
