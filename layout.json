@@ -56,11 +56,11 @@
       ]
     },
     {
-      "title": "Tutorials",
+      "title": "Guides",
       "links": [
         {
           "title": "How to add a custom Domain to your Project?",
-          "href": "/tutorials/add-custom-domain"
+          "href": "/guides/add-custom-domain"
         }
       ]
     }

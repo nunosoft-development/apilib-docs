@@ -1,5 +1,5 @@
 ---
-title: API-Lib Documentation - Adding a Custom Domain to Your Project
+title: Adding a Custom Domain to Your Project
 description: API-Lib allows you to customize the domain for your project, giving it a personalized touch. This feature is available with the Essentials subscription plan. By following the steps outlined below, you can easily set up a custom domain for your project.
 ---
 
@@ -18,13 +18,14 @@ Before proceeding with the custom domain setup, please ensure that you have:
 ## Step 1: Access Project Settings
 
 1. Log in to your API-Lib account.
-2. Navigate to the **Project Settings** page.
-3. Select the desired project for which you want to add a custom domain.
+2. Select the desired project for which you want to add a custom domain.
+3. Navigate to the **Project Settings** page.
+
 
 ## Step 2: Update Project Custom Domain
 
 1. Within the **Project Settings** page, click on the **Project** tab.
-2. Scroll down to the **Project Custom Domain** section.
+2. Scroll down to the **Project Custom Domain** setting.
 3. Click on the **Update** button.
 
 ![Update Custom Domain](https://example.com/images/update_custom_domain.png)
@@ -45,20 +46,31 @@ Before proceeding with the custom domain setup, please ensure that you have:
 
 To properly set up the domain, you need to add a TXT DNS entry with your project ID to the domain. Follow the steps below, using the example of adding a TXT record for `api-lib.me` on Cloudflare:
 
-1. Log in to your Cloudflare account.
+1. Log in to your Cloudflare or DNS ptovider account.
 2. Select the desired domain (e.g., `api-lib.me`).
 3. Navigate to the DNS settings for your domain.
 4. Add a new TXT record.
 5. In the **Name** or **Host** field, enter `@` or leave it blank to represent the root domain.
-6. In the **Value** or **Content** field, enter your project ID. You can find the project ID by following the guide provided [here](https://example.com/guides/finding_project_id).
+6. In the **Value** or **Content** field, enter your project ID. You can find the project ID by following the guide provided [here](https://api-lib.com/guides/finding-project-id).
 
 ![Add TXT Record](https://example.com/images/add_txt_record_cloudflare.png)
 
 ## Step 6: Verify TXT Record
 
-To ensure the TXT record has been added successfully, you can use a website like [dnslookup.de](https://dnslookup.de/) to perform a DNS lookup. Enter your domain name and select the TXT record option to check if the TXT record is present and has propagated correctly.
+To ensure the TXT record has been added successfully, you can use a website like [nslookup.io](https://www.nslookup.io/txt-lookup/) to perform a DNS lookup. Enter your domain name and select the TXT record option to check if the TXT record is present and has propagated correctly.
 
-## Step 7: Add A Record for Redirection
+## Step 7: Add Custom Domain to Your API-Lib Project
+
+To complete the setup and avoid any error messages, you need to add the verified custom domain to your API-Lib project. Follow the steps below:
+
+1. Return to the **Project Settings** page in your API-Lib account.
+2. Select the desired project for which you added the custom domain.
+3. In the **Project Custom Domain** section, click on the **Update** button.
+4. Enter your verified custom domain in the input field.
+5. Click on the **Save** button to save the changes.
+
+
+## Step 8: Add A Record for Redirection
 
 To redirect requests to the API-Lib servers, you need to add an A record for the domain. Follow the steps below:
 
