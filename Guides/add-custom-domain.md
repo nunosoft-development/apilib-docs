@@ -29,6 +29,7 @@ Before proceeding with the custom domain setup, please ensure that you have:
 3. Click on the **Update** button.
 
 ![Update Custom Domain](https://i.nunosoft.net/docs/edit-domain.gif)
+[Open GIF](https://i.nunosoft.net/docs/edit-domain.gif)
 
 ## Step 3: Enter Your Custom Domain
 
