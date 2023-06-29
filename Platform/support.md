@@ -3,6 +3,7 @@ title: API-Lib Customer Support
 description: All the information you need to get the most out of our platform and the support options available to you. 
 ---
 
+{% callout type="note" title="Get Support: Contact Us for Assistance!" %} Need support? Contact us at contact@nunosoft.net or simply click the chat icon in the bottom corner of the page. We're here to help! {% /callout %}
 
 At API-Lib, we believe that providing excellent customer support is crucial to our users' success. We understand that developing APIs can be a complex and challenging process, and we are committed to helping our users overcome any obstacles they may encounter. We offer several support channels to ensure that our users can get the help they need, when they need it.
 
