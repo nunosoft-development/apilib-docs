@@ -77,7 +77,4 @@ API-Lib includes support for JSON Schema, which allows you to define the structu
 
 API-Lib includes a middleware system, which allows you to add functionality to your APIs without modifying your Operators directly. Middleware can handle tasks such as authentication, logging, and error handling.
 
-## Conclusion
-
-In this document, we have provided a detailed overview of how Operators and API-Lib work. Operators are the request handlers in API-Lib, and they run in their own isolated environment using the V8 JavaScript engine. API-Lib provides a platform for developers to create and manage APIs using a set of tools and libraries. The platform includes features such as Operator isolation, performance optimizations, and security mechanisms to ensure that your APIs are secure, scalable, and performant.
 
