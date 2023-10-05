@@ -6,7 +6,7 @@ description: Learn about API-Lib's comprehensive security model and its features
 
 API-Lib is dedicated to revolutionizing backend development by simplifying API creation and management. But this transformation must be accompanied by robust security measures. Our commitment to security is evident in our multi-layered approach that encompasses various security facets:
 
-## 2. Multi-Layered Security Approach
+## 1. Multi-Layered Security Approach
 
 ### Deno Framework Security Barrier
 
@@ -28,7 +28,7 @@ API-Lib is dedicated to revolutionizing backend development by simplifying API c
 
 **Route Isolation**: In the event of a potential security breach, API-Lib has the capability to isolate and quarantine the affected route. This action prevents further harm to the overall system while allowing for forensic analysis.
 
-## 3. Infrastructure on the Secure OVH Cloud Network
+## 2. Infrastructure on the Secure OVH Cloud Network
 
 API-Lib's infrastructure is hosted on the secure OVH cloud network, which adds another layer of protection and reliability to your API environment:
 
@@ -38,7 +38,7 @@ API-Lib's infrastructure is hosted on the secure OVH cloud network, which adds a
 
 **Scalability**: OVH's cloud infrastructure allows API-Lib to scale resources rapidly in response to increasing demand. This ensures that your API remains responsive and available, even during traffic spikes.
 
-## 4. Compliance and Data Protection
+## 3. Compliance and Data Protection
 
 API-Lib is committed to complying with industry standards and data protection regulations. We take privacy and data security seriously and offer features and controls to help you meet your compliance requirements. Our platform supports:
 
@@ -48,7 +48,7 @@ API-Lib is committed to complying with industry standards and data protection re
 
 **Data Encryption**: Data transmitted between API-Lib and your users is encrypted using industry-standard encryption protocols, ensuring the confidentiality of sensitive information.
 
-## 5. Incident Response and Reporting
+## 4. Incident Response and Reporting
 
 API-Lib has a robust incident response plan in place to address security events promptly and effectively. In the event of a security incident:
 
@@ -57,7 +57,7 @@ API-Lib has a robust incident response plan in place to address security events 
 - Affected parties will be notified, and necessary steps will be taken to remedy the situation.
 - We maintain transparency throughout the incident response process, keeping you informed of developments and resolutions.
 
-## 6. Security Best Practices for API Development
+## 5. Security Best Practices for API Development
 
 To further enhance security, we recommend following these best practices when developing APIs on the API-Lib platform:
 
