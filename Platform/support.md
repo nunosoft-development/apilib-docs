@@ -3,7 +3,7 @@ title: API-Lib Customer Support
 description: All the information you need to get the most out of our platform and the support options available to you. 
 ---
 
-{% callout type="note" title="Get Support: Contact Us for Assistance!" %} Need support? Contact us at contact@nunosoft.net or simply click the chat icon in the bottom corner of the page. We're here to help! {% /callout %}
+{% callout type="note" title="Get Support: Contact Us for Assistance!" %} Need support? Contact us at contact@api-lib.com or simply click the chat icon in the bottom corner of the page. We're here to help! {% /callout %}
 
 At API-Lib, we believe that providing excellent customer support is crucial to our users' success. We understand that developing APIs can be a complex and challenging process, and we are committed to helping our users overcome any obstacles they may encounter. We offer several support channels to ensure that our users can get the help they need, when they need it.
 
@@ -49,7 +49,7 @@ If you need assistance with API-Lib, you can contact our support team through on
 
 - **Live Chat Support**: Click the live chat button on the bottom right corner of the screen on [api-lib.com](https://api-lib.com) to start a chat with one of our support agents.
 
-- **Email Support**: Send an email to [support@api-lib.com](mailto:support@api-lib.com) and our support team will respond within 24 hours.
+- **Email Support**: Send an email to [contact@api-lib.com](mailto:contact@api-lib.com) and our support team will respond within 24 hours.
 
 - **Ticket Support**: Log in to your API-Lib account, click on the "Support" tab, and submit a ticket with your issue or question.
 
