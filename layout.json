@@ -10,14 +10,6 @@
         {
           "title": "Features",
           "href": "/introduction/features"
-        },
-        {
-          "title": "Tutorials",
-          "href": "/introduction/tutorials"
-        },
-        {
-          "title": "Examples",
-          "href": "/introduction/examples"
         }
       ]
     },
@@ -52,15 +44,6 @@
         {
           "title": "Global Network (Server Locations)",
           "href": "/platform/network"
-        }
-      ]
-    },
-    {
-      "title": "Guides",
-      "links": [
-        {
-          "title": "How to add a custom Domain to your Project?",
-          "href": "/guides/add-custom-domain"
         }
       ]
     }
